@@ -1,5 +1,5 @@
 # Error_Solution-Project
-A windows form application for consolidating student errors and solutions for student errors using 3-tier architecture.
+A windows form application for consolidating student errors and solutions for student errors using 3-tier architecture(ASP.NET).
 
 Application users includes: administrator,lecturer and student
 
